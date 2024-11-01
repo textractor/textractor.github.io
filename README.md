@@ -1,4 +1,4 @@
-# Welcom to the Test of MDAI Documentation Via Jekyll and GitPages!
+# Welcome to the Test of MDAI Documentation Via Jekyll and GitPages!
 
 This is a test of what can be used to generate the MDAI project documentation.
 
