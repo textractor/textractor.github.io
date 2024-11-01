@@ -33,7 +33,8 @@ domain: textractor.github.io       # if you want to force HTTPS, specify the dom
 url: https://textractor.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: just-the-docs
+theme: "just-the-docs"
+color_scheme: "dark"
 plugins:
   - jekyll-feed
 
