@@ -37,6 +37,7 @@ theme: "just-the-docs"
 color_scheme: "dark"
 plugins:
   - jekyll-feed
+source: docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
