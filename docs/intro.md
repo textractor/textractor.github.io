@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Introduction to MDAI
 permalink: /about/
 ---
 
